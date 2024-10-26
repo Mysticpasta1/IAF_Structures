@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#aether:is_aether",
+  "features": "iceandfire:ice_dragon_roost",
+  "step": "surface_structures"
+}
